@@ -1,0 +1,7 @@
+{
+  "name": "CipherVault",
+  "description": "A professional-grade, client-side encryption suite for securely generating and sharing messages using AES-256 and other advanced cryptographic algorithms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
